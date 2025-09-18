@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\H1Oef\\Oef3_Film\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B67B346-84D9-4D21-B369-2FFD763DA773}|Oef3_Film\\Oef3_Film.vbproj|c:\\users\\quentin.versluys\\h1oef\\oef3_film\\oef3_film\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7B67B346-84D9-4D21-B369-2FFD763DA773}|Oef3_Film\\Oef3_Film.vbproj|solutionrelative:oef3_film\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\H1Oef\\Oef3_Film\\Oef3_Film\\Module1.vb",
+              "RelativeDocumentMoniker": "Oef3_Film\\Module1.vb",
+              "ToolTip": "C:\\Users\\quentin.versluys\\H1Oef\\Oef3_Film\\Oef3_Film\\Module1.vb",
+              "RelativeToolTip": "Oef3_Film\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T10:40:32.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
