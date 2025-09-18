@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\H1Oef\\Oef2_Rijbewijs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{771515F3-9BF8-48D9-B6A5-7A471200985C}|Oef2_Rijbewijs\\Oef2_Rijbewijs.vbproj|c:\\users\\quentin.versluys\\h1oef\\oef2_rijbewijs\\oef2_rijbewijs\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{771515F3-9BF8-48D9-B6A5-7A471200985C}|Oef2_Rijbewijs\\Oef2_Rijbewijs.vbproj|solutionrelative:oef2_rijbewijs\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\H1Oef\\Oef2_Rijbewijs\\Oef2_Rijbewijs\\Program.vb",
+              "RelativeDocumentMoniker": "Oef2_Rijbewijs\\Program.vb",
+              "ToolTip": "C:\\Users\\quentin.versluys\\H1Oef\\Oef2_Rijbewijs\\Oef2_Rijbewijs\\Program.vb",
+              "RelativeToolTip": "Oef2_Rijbewijs\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-18T10:31:12.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
