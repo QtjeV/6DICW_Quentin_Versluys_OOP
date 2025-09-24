@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\H4_Oefeningen\\Oef1_Draak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FF813-9DA6-4510-9554-2A7528063474}|Oef1_Draak\\Oef1_Draak.vbproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\h4_oefeningen\\oef1_draak\\oef1_draak\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5C0FF813-9DA6-4510-9554-2A7528063474}|Oef1_Draak\\Oef1_Draak.vbproj|solutionrelative:oef1_draak\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\H4_Oefeningen\\Oef1_Draak\\Oef1_Draak\\Module1.vb",
+              "RelativeDocumentMoniker": "Oef1_Draak\\Module1.vb",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\H4_Oefeningen\\Oef1_Draak\\Oef1_Draak\\Module1.vb",
+              "RelativeToolTip": "Oef1_Draak\\Module1.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wB0AAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-19T09:43:17.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
