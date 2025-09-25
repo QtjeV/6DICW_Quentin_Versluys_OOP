@@ -1,0 +1,11 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\bin\Debug\Oef2_Voetballer.exe.config
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\bin\Debug\Oef2_Voetballer.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\bin\Debug\Oef2_Voetballer.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\bin\Debug\Oef2_Voetballer.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\obj\Debug\Oef2_Voetballer.vbproj.AssemblyReference.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\obj\Debug\Oef2_Voetballer.Resources.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\obj\Debug\Oef2_Voetballer.vbproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\obj\Debug\Oef2_Voetballer.vbproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\obj\Debug\Oef2_Voetballer.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\obj\Debug\Oef2_Voetballer.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef2_Voetballer\Oef2_Voetballer\obj\Debug\Oef2_Voetballer.pdb
