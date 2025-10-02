@@ -1,0 +1,11 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\obj\Debug\Versluys_Quentin_Dier.vbproj.AssemblyReference.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\obj\Debug\Versluys_Quentin_Dier.Resources.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\obj\Debug\Versluys_Quentin_Dier.vbproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\obj\Debug\Versluys_Quentin_Dier.vbproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\bin\Debug\Versluys_Quentin_Dier.exe.config
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\bin\Debug\Versluys_Quentin_Dier.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\bin\Debug\Versluys_Quentin_Dier.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\bin\Debug\Versluys_Quentin_Dier.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\obj\Debug\Versluys_Quentin_Dier.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\obj\Debug\Versluys_Quentin_Dier.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag2\Versluys_Quentin_Dier\Versluys_Quentin_Dier\obj\Debug\Versluys_Quentin_Dier.pdb

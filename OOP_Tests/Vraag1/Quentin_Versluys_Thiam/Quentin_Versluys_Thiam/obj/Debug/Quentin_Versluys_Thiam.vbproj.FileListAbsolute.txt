@@ -1,0 +1,12 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\obj\Debug\Quentin_Versluys_Thiam.vbproj.AssemblyReference.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\obj\Debug\Quentin_Versluys_Thiam.Resources.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\obj\Debug\Quentin_Versluys_Thiam.vbproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\obj\Debug\Quentin_Versluys_Thiam.vbproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\bin\Debug\Quentin_Versluys_Thiam.exe.config
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\bin\Debug\Quentin_Versluys_Thiam.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\bin\Debug\Quentin_Versluys_Thiam.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\bin\Debug\Quentin_Versluys_Thiam.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\obj\Debug\Quentin_Versluys_Thiam.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\obj\Debug\Quentin_Versluys_Thiam.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\obj\Debug\Quentin_Versluys_Thiam.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Vraag1\Quentin_Versluys_Thiam\Quentin_Versluys_Thiam\obj\Debug\Quentin_Versluys_Thiam.exe.config
