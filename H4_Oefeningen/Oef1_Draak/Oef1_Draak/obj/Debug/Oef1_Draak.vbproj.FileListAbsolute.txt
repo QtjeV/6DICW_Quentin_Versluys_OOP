@@ -1,0 +1,4 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H4_Oefeningen\Oef1_Draak\Oef1_Draak\obj\Debug\Oef1_Draak.vbproj.AssemblyReference.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H4_Oefeningen\Oef1_Draak\Oef1_Draak\obj\Debug\Oef1_Draak.Resources.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H4_Oefeningen\Oef1_Draak\Oef1_Draak\obj\Debug\Oef1_Draak.vbproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H4_Oefeningen\Oef1_Draak\Oef1_Draak\obj\Debug\Oef1_Draak.vbproj.CoreCompileInputs.cache

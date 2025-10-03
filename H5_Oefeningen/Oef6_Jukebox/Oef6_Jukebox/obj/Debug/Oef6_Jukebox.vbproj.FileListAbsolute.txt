@@ -1,0 +1,12 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\obj\Debug\Oef6_Jukebox.vbproj.AssemblyReference.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\obj\Debug\Oef6_Jukebox.Resources.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\obj\Debug\Oef6_Jukebox.vbproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\obj\Debug\Oef6_Jukebox.vbproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\bin\Debug\Oef6_Jukebox.exe.config
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\bin\Debug\Oef6_Jukebox.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\bin\Debug\Oef6_Jukebox.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\bin\Debug\Oef6_Jukebox.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\obj\Debug\Oef6_Jukebox.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\obj\Debug\Oef6_Jukebox.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\obj\Debug\Oef6_Jukebox.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H5_Oefeningen\Oef6_Jukebox\Oef6_Jukebox\obj\Debug\Oef6_Jukebox.exe.config
