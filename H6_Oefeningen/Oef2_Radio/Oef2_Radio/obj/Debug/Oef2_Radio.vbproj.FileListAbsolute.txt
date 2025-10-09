@@ -1,0 +1,12 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\obj\Debug\Oef2_Radio.vbproj.AssemblyReference.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\obj\Debug\Oef2_Radio.Resources.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\obj\Debug\Oef2_Radio.vbproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\obj\Debug\Oef2_Radio.vbproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\bin\Debug\Oef2_Radio.exe.config
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\bin\Debug\Oef2_Radio.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\bin\Debug\Oef2_Radio.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\bin\Debug\Oef2_Radio.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\obj\Debug\Oef2_Radio.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\obj\Debug\Oef2_Radio.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\obj\Debug\Oef2_Radio.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H6_Oefeningen\Oef2_Radio\Oef2_Radio\obj\Debug\Oef2_Radio.exe.config
