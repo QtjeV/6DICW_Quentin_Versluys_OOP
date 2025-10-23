@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\H7_Oefeningen\\Oef4_Voetballer_Nieuw\\Voetballer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D401D79-1625-4544-8FD5-BFD9A04A455E}|Voetballer\\Voetballer.vbproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\h7_oefeningen\\oef4_voetballer_nieuw\\voetballer\\voetballer\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6D401D79-1625-4544-8FD5-BFD9A04A455E}|Voetballer\\Voetballer.vbproj|solutionrelative:voetballer\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\H7_Oefeningen\\Oef4_Voetballer_Nieuw\\Voetballer\\Voetballer\\Module1.vb",
+              "RelativeDocumentMoniker": "Voetballer\\Module1.vb",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\H7_Oefeningen\\Oef4_Voetballer_Nieuw\\Voetballer\\Voetballer\\Module1.vb*",
+              "RelativeToolTip": "Voetballer\\Module1.vb*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-23T09:31:34.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
