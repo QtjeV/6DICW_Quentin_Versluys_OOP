@@ -1,0 +1,12 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\bin\Debug\Kaartspel.exe.config
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\bin\Debug\Kaartspel.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\bin\Debug\Kaartspel.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\bin\Debug\Kaartspel.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\obj\Debug\Kaartspel.vbproj.AssemblyReference.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\obj\Debug\Kaartspel.Resources.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\obj\Debug\Kaartspel.vbproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\obj\Debug\Kaartspel.vbproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\obj\Debug\Kaartspel.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\obj\Debug\Kaartspel.xml
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\obj\Debug\Kaartspel.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_Tests\Quentin_Versluys_Examen_OOP\Oefening1\Kaartspel\Kaartspel\obj\Debug\Kaartspel.exe.config

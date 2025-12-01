@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -26,9 +30,9 @@
               "Title": "Module1.vb",
               "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\H7_Oefeningen\\Oef2_Veelhoek\\Veelhoek\\Veelhoek\\Module1.vb",
               "RelativeDocumentMoniker": "Veelhoek\\Module1.vb",
-              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\H7_Oefeningen\\Oef2_Veelhoek\\Veelhoek\\Veelhoek\\Module1.vb",
-              "RelativeToolTip": "Veelhoek\\Module1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\H7_Oefeningen\\Oef2_Veelhoek\\Veelhoek\\Veelhoek\\Module1.vb*",
+              "RelativeToolTip": "Veelhoek\\Module1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-17T09:45:09.674Z",
               "EditorCaption": ""

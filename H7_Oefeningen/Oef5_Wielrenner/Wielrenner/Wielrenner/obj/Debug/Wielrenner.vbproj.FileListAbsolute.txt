@@ -9,3 +9,4 @@ C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H7_Oefeningen\Oef5_Wielrenn
 C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H7_Oefeningen\Oef5_Wielrenner\Wielrenner\Wielrenner\obj\Debug\Wielrenner.exe
 C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H7_Oefeningen\Oef5_Wielrenner\Wielrenner\Wielrenner\obj\Debug\Wielrenner.xml
 C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H7_Oefeningen\Oef5_Wielrenner\Wielrenner\Wielrenner\obj\Debug\Wielrenner.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\H7_Oefeningen\Oef5_Wielrenner\Wielrenner\Wielrenner\obj\Debug\Wielrenner.exe.config
