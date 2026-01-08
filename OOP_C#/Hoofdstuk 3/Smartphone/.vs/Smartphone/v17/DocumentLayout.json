@@ -31,15 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Smartphone",
+              "Title": "Smartphone.csproj",
               "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 3\\Smartphone\\Smartphone\\Smartphone.csproj",
               "RelativeDocumentMoniker": "Smartphone\\Smartphone.csproj",
               "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 3\\Smartphone\\Smartphone\\Smartphone.csproj",
               "RelativeToolTip": "Smartphone\\Smartphone.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-08T11:32:32.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T11:32:32.84Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Smartphone\\Program.cs",
               "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 3\\Smartphone\\Smartphone\\Program.cs",
               "RelativeToolTip": "Smartphone\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T11:32:12.529Z",
               "EditorCaption": ""

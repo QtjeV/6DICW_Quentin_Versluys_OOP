@@ -1,0 +1,15 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.deps.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.runtimeconfig.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.AssemblyInfoInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.AssemblyInfo.cs
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.sourcelink.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\obj\Debug\net8.0\refint\Smartphone.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.genruntimeconfig.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\Smartphone\Smartphone\obj\Debug\net8.0\ref\Smartphone.dll

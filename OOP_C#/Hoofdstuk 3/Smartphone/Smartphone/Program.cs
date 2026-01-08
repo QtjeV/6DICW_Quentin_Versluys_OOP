@@ -22,4 +22,11 @@
         get { return _pincode; }
         set { _pincode = value; }
     }
+
+    static void Main()
+    {
+        Smartphone mijnSmartphone = new Smartphone("0475/12.34.56", "1234");
+        Console.WriteLine("Mijn telefoonnummer is: " + mijnSmartphone.Telnummer);
+        Console.WriteLine("Mijn pincode is: " + mijnSmartphone.Pincode);
+    }
 }
