@@ -18,28 +18,29 @@ namespace OpDeWeegschaal
         {
             InitializeComponent();
             _weightWatcher = new WeightWatcher(58, 1.80);
+            ToonInfo();
+        }
+
+        private void ToonInfo()
+        {
             groote_box.Text = _weightWatcher.Grootte.ToString("0.00");
             gewicht_box.Text = _weightWatcher.Gewicht.ToString();
             status_box.Text = _weightWatcher.GeefStatus();
             bmi_box.Text = _weightWatcher.GeefBMI().ToString("0.00");
         }
 
-      
-
         private void minus_button_Click(object sender, EventArgs e)
         {
             _weightWatcher.Gewicht-=1;
             gewicht_box.Text = (_weightWatcher.Gewicht).ToString();
-            status_box.Text = _weightWatcher.GeefStatus();
-            bmi_box.Text = _weightWatcher.GeefBMI().ToString("0.00");
+            ToonInfo();
         }
 
         private void plus_button_Click(object sender, EventArgs e)
         {
             _weightWatcher.Gewicht +=1;
             gewicht_box.Text = (_weightWatcher.Gewicht).ToString(); ;
-            status_box.Text = _weightWatcher.GeefStatus();
-            bmi_box.Text = _weightWatcher.GeefBMI().ToString("0.00");
+            ToonInfo();
         }
     }
 }

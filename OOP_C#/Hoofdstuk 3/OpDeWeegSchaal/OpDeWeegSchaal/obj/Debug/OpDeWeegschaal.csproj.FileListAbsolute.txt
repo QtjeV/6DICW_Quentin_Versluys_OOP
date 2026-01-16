@@ -28,3 +28,5 @@ C:\Users\quentin.versluys\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_
 C:\Users\quentin.versluys\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.csproj.CoreCompileInputs.cache
 C:\Users\quentin.versluys\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.exe
 C:\Users\quentin.versluys\csharp\E-book-leerlingen-projecten_2018\_hoofdstuk_3\_oefeningen\OpDeWeegschaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\OpDeWeegSchaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 3\OpDeWeegSchaal\OpDeWeegschaal\obj\Debug\OpDeWeegschaal.pdb
