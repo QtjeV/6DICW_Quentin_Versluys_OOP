@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkbox_Extra_Oefening", "Checkbox_Extra_Oefening\Checkbox_Extra_Oefening.csproj", "{4A7A83E9-579C-49D6-9283-3CBE33D8089B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7A83E9-579C-49D6-9283-3CBE33D8089B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7A83E9-579C-49D6-9283-3CBE33D8089B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7A83E9-579C-49D6-9283-3CBE33D8089B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7A83E9-579C-49D6-9283-3CBE33D8089B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1555E8F5-FFE4-4C59-8D07-FE4F3E72E3C0}
+	EndGlobalSection
+EndGlobal

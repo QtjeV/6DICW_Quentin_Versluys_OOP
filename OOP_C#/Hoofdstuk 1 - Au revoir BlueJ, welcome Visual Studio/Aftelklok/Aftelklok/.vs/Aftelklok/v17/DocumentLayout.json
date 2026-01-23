@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\\Aftelklok\\Aftelklok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C266019-BA58-474B-9710-F5B8B7F2B65D}|Aftelklok\\Aftelklok.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\hoofdstuk 1 - au revoir bluej, welcome visual studio\\aftelklok\\aftelklok\\aftelklok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C266019-BA58-474B-9710-F5B8B7F2B65D}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C266019-BA58-474B-9710-F5B8B7F2B65D}|Aftelklok\\Aftelklok.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\\Aftelklok\\Aftelklok\\aftelklok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C266019-BA58-474B-9710-F5B8B7F2B65D}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C266019-BA58-474B-9710-F5B8B7F2B65D}|Aftelklok\\Aftelklok.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\hoofdstuk 1 - au revoir bluej, welcome visual studio\\aftelklok\\aftelklok\\aftelklok\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C266019-BA58-474B-9710-F5B8B7F2B65D}|Aftelklok\\Aftelklok.csproj|solutionrelative:aftelklok\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\\Aftelklok\\Aftelklok\\Aftelklok\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Aftelklok\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\\Aftelklok\\Aftelklok\\Aftelklok\\Form1.Designer.cs",
+              "RelativeToolTip": "Aftelklok\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:07:47.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\\Aftelklok\\Aftelklok\\Aftelklok\\Form1.cs",
+              "RelativeDocumentMoniker": "Aftelklok\\Form1.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\\Aftelklok\\Aftelklok\\Aftelklok\\Form1.cs",
+              "RelativeToolTip": "Aftelklok\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:04:40.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\\Aftelklok\\Aftelklok\\Aftelklok\\Form1.cs",
+              "RelativeDocumentMoniker": "Aftelklok\\Form1.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\\Aftelklok\\Aftelklok\\Aftelklok\\Form1.cs [Design]",
+              "RelativeToolTip": "Aftelklok\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:02:43.109Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\bin\Debug\net8.0-windows\Checkbox_Extra_Oefening.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\bin\Debug\net8.0-windows\Checkbox_Extra_Oefening.deps.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\bin\Debug\net8.0-windows\Checkbox_Extra_Oefening.runtimeconfig.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\bin\Debug\net8.0-windows\Checkbox_Extra_Oefening.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\bin\Debug\net8.0-windows\Checkbox_Extra_Oefening.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\Checkbox_Extra_Oefening.Form1.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\Checkbox_Extra_Oefening.csproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\Checkbox_Extra_Oefening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\Checkbox_Extra_Oefening.AssemblyInfoInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\Checkbox_Extra_Oefening.AssemblyInfo.cs
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\Checkbox_Extra_Oefening.csproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\Checkbox_Extra_Oefening.sourcelink.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\Checkbox_Extra_Oefening.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\refint\Checkbox_Extra_Oefening.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\Checkbox_Extra_Oefening.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\Checkbox_Extra_Oefening.genruntimeconfig.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\Checkbox_Extra_Oefening\Checkbox_Extra_Oefening\obj\Debug\net8.0-windows\ref\Checkbox_Extra_Oefening.dll

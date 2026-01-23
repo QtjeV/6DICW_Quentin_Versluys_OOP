@@ -1,0 +1,17 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\Aftelklok.Aftelklok.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\Aftelklok.csproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\Aftelklok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\Aftelklok.AssemblyInfoInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\Aftelklok.AssemblyInfo.cs
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\Aftelklok.csproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\Aftelklok.sourcelink.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\bin\Debug\net8.0-windows\Aftelklok.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\bin\Debug\net8.0-windows\Aftelklok.deps.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\bin\Debug\net8.0-windows\Aftelklok.runtimeconfig.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\bin\Debug\net8.0-windows\Aftelklok.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\bin\Debug\net8.0-windows\Aftelklok.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\Aftelklok.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\refint\Aftelklok.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\Aftelklok.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\Aftelklok.genruntimeconfig.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 1 - Au revoir BlueJ, welcome Visual Studio\Aftelklok\Aftelklok\Aftelklok\obj\Debug\net8.0-windows\ref\Aftelklok.dll
