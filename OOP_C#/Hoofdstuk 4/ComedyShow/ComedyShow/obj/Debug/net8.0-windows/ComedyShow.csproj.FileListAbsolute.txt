@@ -1,0 +1,17 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\bin\Debug\net8.0-windows\ComedyShow.exe
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\bin\Debug\net8.0-windows\ComedyShow.deps.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\bin\Debug\net8.0-windows\ComedyShow.runtimeconfig.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\bin\Debug\net8.0-windows\ComedyShow.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\bin\Debug\net8.0-windows\ComedyShow.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.Form1.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.csproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.AssemblyInfoInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.AssemblyInfo.cs
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.csproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.sourcelink.json
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\refint\ComedyShow.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ComedyShow.genruntimeconfig.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 4\ComedyShow\ComedyShow\obj\Debug\net8.0-windows\ref\ComedyShow.dll

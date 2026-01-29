@@ -2,56 +2,38 @@ namespace _3lagenmodel_test_h3_Versluys_Quentin
 {
     public partial class Form1 : Form
     {
-        private ComedyShow _comedyShow;
+        private KindLengteVoorspeller _LengteVoorspeller;
+        // Constructor
         public Form1()
         {
-            _comedyShow = new ComedyShow();
+            _LengteVoorspeller = new KindLengteVoorspeller();
             InitializeComponent();
         }
 
-
-        //extra dingen die ik per ongeluk heb toegevoegd had niet genoeg tijd om te verwijderen sorry
-        private void Gemiddelde_Score_Click(object sender, EventArgs e)
+        //Button om dochter lengte te berekenen
+        private void DochterButton_Click(object sender, EventArgs e)
         {
+            //waarden checken en berekenen
+            _LengteVoorspeller.VaderLengte = Convert.ToDouble(ManTextBox.Text);
+            _LengteVoorspeller.MoederLengte = Convert.ToDouble(VrouwTextBox.Text);
+            _LengteVoorspeller.AantalVoorspellingen += 1;
+            HoogteLabel.Text = _LengteVoorspeller.BerekenDochter().ToString("0.00");
+            AantalVoorspellingenLabel.Text = _LengteVoorspeller.AantalVoorspellingen.ToString();
 
+            HoogteLabel.Visible = true;
         }
 
-        private void Laatste_Show_Click(object sender, EventArgs e)
+        //Button om zoon lengte te berekenen
+        private void ZoonButton_Click(object sender, EventArgs e)
         {
+            //waarden checken en berekenen
+            _LengteVoorspeller.VaderLengte = Convert.ToDouble(ManTextBox.Text);
+            _LengteVoorspeller.MoederLengte = Convert.ToDouble(VrouwTextBox.Text);
+            _LengteVoorspeller.AantalVoorspellingen += 1;
+            HoogteLabel.Text = _LengteVoorspeller.BerekenZoon().ToString("0.00");
+            AantalVoorspellingenLabel.Text = _LengteVoorspeller.AantalVoorspellingen.ToString();
 
-        }
-
-        private void Aantal_Shows_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Show_Invoer_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Score_Show_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-
-        //voegt een show toe aan de comedyshow klasse en update de labels
-        private void Show_Toevoegen_Click(object sender, EventArgs e)
-        {
-            _comedyShow.Add(Show_Invoer.Text, Convert.ToDouble(Score_Show.Text));
-            Gemiddelde_Score.Text = _comedyShow.BerekenGemiddelde().ToString("0.0");
-            Aantal_Shows.Text = _comedyShow.Aantal.ToString();
-            Laatste_Show.Text = Show_Invoer.Text;
-
-            Show_Invoer.Text = "";
-            Score_Show.Text = "";
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
+            HoogteLabel.Visible = true;
         }
     }
 }

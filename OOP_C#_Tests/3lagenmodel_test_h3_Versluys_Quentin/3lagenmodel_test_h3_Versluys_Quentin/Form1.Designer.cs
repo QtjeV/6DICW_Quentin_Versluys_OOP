@@ -28,153 +28,123 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Show_Toevoegen = new Button();
-            Score_Show = new TextBox();
-            Show_Invoer = new TextBox();
-            Gemiddelde_Score = new Label();
-            Laatste_Show = new Label();
-            Aantal_Shows = new Label();
-            label4 = new Label();
-            label5 = new Label();
-            label6 = new Label();
-            label7 = new Label();
-            label8 = new Label();
+            label1 = new Label();
+            label2 = new Label();
+            DochterButton = new Button();
+            ZoonButton = new Button();
+            AantalVoorspellingenLabel = new Label();
+            HoogteLabel = new Label();
+            ManTextBox = new TextBox();
+            VrouwTextBox = new TextBox();
             SuspendLayout();
             // 
-            // Show_Toevoegen
+            // label1
             // 
-            Show_Toevoegen.Location = new Point(243, 198);
-            Show_Toevoegen.Name = "Show_Toevoegen";
-            Show_Toevoegen.Size = new Size(241, 34);
-            Show_Toevoegen.TabIndex = 0;
-            Show_Toevoegen.Text = "Show toevoegen";
-            Show_Toevoegen.UseVisualStyleBackColor = true;
-            Show_Toevoegen.Click += Show_Toevoegen_Click;
+            label1.AutoSize = true;
+            label1.BackColor = SystemColors.ControlLightLight;
+            label1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(42, 51);
+            label1.Name = "label1";
+            label1.Size = new Size(164, 25);
+            label1.TabIndex = 1;
+            label1.Text = "lengte man in cm:";
             // 
-            // Score_Show
+            // label2
             // 
-            Score_Show.Location = new Point(399, 138);
-            Score_Show.Name = "Score_Show";
-            Score_Show.Size = new Size(150, 31);
-            Score_Show.TabIndex = 1;
-            Score_Show.TextChanged += Score_Show_TextChanged;
+            label2.AutoSize = true;
+            label2.BackColor = SystemColors.ControlLightLight;
+            label2.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Location = new Point(28, 98);
+            label2.Name = "label2";
+            label2.Size = new Size(180, 25);
+            label2.TabIndex = 2;
+            label2.Text = "lengte vrouw in cm:";
             // 
-            // Show_Invoer
+            // DochterButton
             // 
-            Show_Invoer.Location = new Point(399, 91);
-            Show_Invoer.Name = "Show_Invoer";
-            Show_Invoer.Size = new Size(150, 31);
-            Show_Invoer.TabIndex = 2;
-            Show_Invoer.TextChanged += Show_Invoer_TextChanged;
+            DochterButton.Location = new Point(525, 175);
+            DochterButton.Name = "DochterButton";
+            DochterButton.Size = new Size(239, 39);
+            DochterButton.TabIndex = 3;
+            DochterButton.Text = "Bereken Lengte Dochter";
+            DochterButton.UseVisualStyleBackColor = true;
+            DochterButton.Click += DochterButton_Click;
             // 
-            // Gemiddelde_Score
+            // ZoonButton
             // 
-            Gemiddelde_Score.AutoSize = true;
-            Gemiddelde_Score.Location = new Point(421, 265);
-            Gemiddelde_Score.Name = "Gemiddelde_Score";
-            Gemiddelde_Score.Size = new Size(0, 25);
-            Gemiddelde_Score.TabIndex = 3;
-            Gemiddelde_Score.Click += Gemiddelde_Score_Click;
+            ZoonButton.Location = new Point(525, 237);
+            ZoonButton.Name = "ZoonButton";
+            ZoonButton.Size = new Size(242, 36);
+            ZoonButton.TabIndex = 4;
+            ZoonButton.Text = "Bereken Lengte Zoon";
+            ZoonButton.UseVisualStyleBackColor = true;
+            ZoonButton.Click += ZoonButton_Click;
             // 
-            // Laatste_Show
+            // AantalVoorspellingenLabel
             // 
-            Laatste_Show.AutoSize = true;
-            Laatste_Show.Location = new Point(425, 299);
-            Laatste_Show.Name = "Laatste_Show";
-            Laatste_Show.Size = new Size(0, 25);
-            Laatste_Show.TabIndex = 4;
-            Laatste_Show.Click += Laatste_Show_Click;
+            AantalVoorspellingenLabel.AutoSize = true;
+            AantalVoorspellingenLabel.BackColor = SystemColors.ControlLightLight;
+            AantalVoorspellingenLabel.Location = new Point(32, 396);
+            AantalVoorspellingenLabel.Name = "AantalVoorspellingenLabel";
+            AantalVoorspellingenLabel.Size = new Size(213, 25);
+            AantalVoorspellingenLabel.TabIndex = 5;
+            AantalVoorspellingenLabel.Text = "Nog geen voorspellingen";
             // 
-            // Aantal_Shows
+            // HoogteLabel
             // 
-            Aantal_Shows.AutoSize = true;
-            Aantal_Shows.BackColor = SystemColors.ButtonHighlight;
-            Aantal_Shows.Location = new Point(421, 336);
-            Aantal_Shows.Name = "Aantal_Shows";
-            Aantal_Shows.Size = new Size(0, 25);
-            Aantal_Shows.TabIndex = 5;
-            Aantal_Shows.Click += Aantal_Shows_Click;
+            HoogteLabel.AutoSize = true;
+            HoogteLabel.BackColor = SystemColors.ActiveCaptionText;
+            HoogteLabel.Font = new Font("Arial", 26F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            HoogteLabel.ForeColor = SystemColors.ButtonHighlight;
+            HoogteLabel.Location = new Point(333, 308);
+            HoogteLabel.Name = "HoogteLabel";
+            HoogteLabel.Size = new Size(149, 61);
+            HoogteLabel.TabIndex = 6;
+            HoogteLabel.Text = "Leeg";
+            HoogteLabel.Visible = false;
             // 
-            // label4
+            // ManTextBox
             // 
-            label4.AutoSize = true;
-            label4.Location = new Point(229, 257);
-            label4.Name = "label4";
-            label4.Size = new Size(159, 25);
-            label4.TabIndex = 6;
-            label4.Text = "Gemiddelde score:";
+            ManTextBox.Location = new Point(212, 51);
+            ManTextBox.Name = "ManTextBox";
+            ManTextBox.Size = new Size(150, 31);
+            ManTextBox.TabIndex = 7;
             // 
-            // label5
+            // VrouwTextBox
             // 
-            label5.AutoSize = true;
-            label5.Location = new Point(237, 301);
-            label5.Name = "label5";
-            label5.Size = new Size(118, 25);
-            label5.TabIndex = 7;
-            label5.Text = "Laatste show:";
-            // 
-            // label6
-            // 
-            label6.AutoSize = true;
-            label6.Location = new Point(232, 338);
-            label6.Name = "label6";
-            label6.Size = new Size(66, 25);
-            label6.TabIndex = 8;
-            label6.Text = "Aantal:";
-            // 
-            // label7
-            // 
-            label7.AutoSize = true;
-            label7.Location = new Point(155, 138);
-            label7.Name = "label7";
-            label7.Size = new Size(165, 25);
-            label7.TabIndex = 9;
-            label7.Text = "Score van de show:";
-            // 
-            // label8
-            // 
-            label8.AutoSize = true;
-            label8.Location = new Point(155, 91);
-            label8.Name = "label8";
-            label8.Size = new Size(143, 25);
-            label8.TabIndex = 10;
-            label8.Text = "Voer de show in:";
+            VrouwTextBox.Location = new Point(212, 95);
+            VrouwTextBox.Name = "VrouwTextBox";
+            VrouwTextBox.Size = new Size(150, 31);
+            VrouwTextBox.TabIndex = 8;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.kind;
             ClientSize = new Size(800, 450);
-            Controls.Add(label8);
-            Controls.Add(label7);
-            Controls.Add(label6);
-            Controls.Add(label5);
-            Controls.Add(label4);
-            Controls.Add(Aantal_Shows);
-            Controls.Add(Laatste_Show);
-            Controls.Add(Gemiddelde_Score);
-            Controls.Add(Show_Invoer);
-            Controls.Add(Score_Show);
-            Controls.Add(Show_Toevoegen);
+            Controls.Add(VrouwTextBox);
+            Controls.Add(ManTextBox);
+            Controls.Add(HoogteLabel);
+            Controls.Add(AantalVoorspellingenLabel);
+            Controls.Add(ZoonButton);
+            Controls.Add(DochterButton);
+            Controls.Add(label2);
+            Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
-            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private Button Show_Toevoegen;
-        private TextBox Score_Show;
-        private TextBox Show_Invoer;
-        private Label Gemiddelde_Score;
-        private Label Laatste_Show;
-        private Label Aantal_Shows;
-        private Label label4;
-        private Label label5;
-        private Label label6;
-        private Label label7;
-        private Label label8;
+        private Label label1;
+        private Label label2;
+        private Button DochterButton;
+        private Button ZoonButton;
+        private Label AantalVoorspellingenLabel;
+        private Label HoogteLabel;
+        private TextBox ManTextBox;
+        private TextBox VrouwTextBox;
     }
 }

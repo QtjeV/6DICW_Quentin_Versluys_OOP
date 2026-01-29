@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\persoonlijke oefeningen\\testexaen\\testexaen\\mensen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|solutionrelative:testexaen\\mensen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\persoonlijke oefeningen\\testexaen\\testexaen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|solutionrelative:testexaen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\persoonlijke oefeningen\\testexaen\\testexaen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|solutionrelative:testexaen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\persoonlijke oefeningen\\testexaen\\testexaen\\testexaen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|solutionrelative:testexaen\\testexaen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\persoonlijke oefeningen\\testexaen\\testexaen\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|solutionrelative:testexaen\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\persoonlijke oefeningen\\testexaen\\testexaen\\spaceships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|solutionrelative:testexaen\\spaceships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\persoonlijke oefeningen\\testexaen\\testexaen\\leiders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D9E2AB1-3F74-46C5-B112-48D657FB7F82}|TestExaen\\TestExaen.csproj|solutionrelative:testexaen\\leiders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TestExaen\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\Form1.Designer.cs",
+              "RelativeToolTip": "TestExaen\\Form1.Designer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:29:57.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestExaen",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\TestExaen.csproj",
+              "RelativeDocumentMoniker": "TestExaen\\TestExaen.csproj",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\TestExaen.csproj",
+              "RelativeToolTip": "TestExaen\\TestExaen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T13:45:30.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Leiders.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\Leiders.cs",
+              "RelativeDocumentMoniker": "TestExaen\\Leiders.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\Leiders.cs",
+              "RelativeToolTip": "TestExaen\\Leiders.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:48:10.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mensen.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\Mensen.cs",
+              "RelativeDocumentMoniker": "TestExaen\\Mensen.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\Mensen.cs",
+              "RelativeToolTip": "TestExaen\\Mensen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:47:42.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "spaceships.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\spaceships.cs",
+              "RelativeDocumentMoniker": "TestExaen\\spaceships.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\spaceships.cs",
+              "RelativeToolTip": "TestExaen\\spaceships.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:46:01.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\Form1.cs",
+              "RelativeDocumentMoniker": "TestExaen\\Form1.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\Form1.cs",
+              "RelativeToolTip": "TestExaen\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:46:25.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\Form1.cs",
+              "RelativeDocumentMoniker": "TestExaen\\Form1.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Persoonlijke oefeningen\\TestExaen\\TestExaen\\Form1.cs [Design]",
+              "RelativeToolTip": "TestExaen\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:45:04.33Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
