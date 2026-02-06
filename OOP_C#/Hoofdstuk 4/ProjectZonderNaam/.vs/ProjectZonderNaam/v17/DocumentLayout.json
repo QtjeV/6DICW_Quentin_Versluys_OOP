@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|c:\\users\\quentin.versluys\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\projectzondernaam\\projectzondernaam\\naam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|solutionrelative:projectzondernaam\\naam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|c:\\users\\quentin.versluys\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\projectzondernaam\\projectzondernaam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|solutionrelative:projectzondernaam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|c:\\users\\quentin.versluys\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\projectzondernaam\\projectzondernaam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|solutionrelative:projectzondernaam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|c:\\users\\quentin.versluys\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\projectzondernaam\\projectzondernaam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCF592C-DFA2-420F-9037-F442A1531D98}|ProjectZonderNaam\\ProjectZonderNaam.csproj|solutionrelative:projectzondernaam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectZonderNaam\\Form1.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjectZonderNaam\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:42:51.5Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectZonderNaam\\Form1.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Form1.cs",
+              "RelativeToolTip": "ProjectZonderNaam\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:42:49.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Naam.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Naam.cs",
+              "RelativeDocumentMoniker": "ProjectZonderNaam\\Naam.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Naam.cs",
+              "RelativeToolTip": "ProjectZonderNaam\\Naam.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:42:43.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectZonderNaam\\Program.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_4\\_oefeningen\\ProjectZonderNaam\\ProjectZonderNaam\\Program.cs",
+              "RelativeToolTip": "ProjectZonderNaam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:42:42.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
