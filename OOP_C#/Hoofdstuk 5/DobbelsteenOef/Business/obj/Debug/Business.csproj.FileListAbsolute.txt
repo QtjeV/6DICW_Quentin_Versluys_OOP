@@ -1,0 +1,6 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 5\DobbelsteenOef\Business\bin\Debug\Business.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 5\DobbelsteenOef\Business\bin\Debug\Business.pdb
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 5\DobbelsteenOef\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 5\DobbelsteenOef\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 5\DobbelsteenOef\Business\obj\Debug\Business.dll
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#\Hoofdstuk 5\DobbelsteenOef\Business\obj\Debug\Business.pdb

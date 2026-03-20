@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\hoofdstuk 5\\dobbelsteenoef\\dobbelsteenoef\\dobbelsteenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|solutionrelative:dobbelsteenoef\\dobbelsteenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\hoofdstuk 5\\dobbelsteenoef\\dobbelsteenoef\\dobbelsteenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|solutionrelative:dobbelsteenoef\\dobbelsteenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\hoofdstuk 5\\dobbelsteenoef\\dobbelsteenoef\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|solutionrelative:dobbelsteenoef\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\dobbelsteenoef\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|solutionrelative:dobbelsteenoef\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\hoofdstuk 5\\dobbelsteenoef\\dobbelsteenoef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|solutionrelative:dobbelsteenoef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A385AD4E-3164-4F9C-B2D4-C8F6746D5C88}|Business\\Business.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\business\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A385AD4E-3164-4F9C-B2D4-C8F6746D5C88}|Business\\Business.csproj|solutionrelative:business\\dobbelsteen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\hoofdstuk 5\\dobbelsteenoef\\dobbelsteenoef\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F3FCAEE-903E-4E4E-B850-8851CD803385}|DobbelsteenOef\\Presentation.csproj|solutionrelative:dobbelsteenoef\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\Program.cs",
+              "RelativeDocumentMoniker": "DobbelsteenOef\\Program.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\Program.cs",
+              "RelativeToolTip": "DobbelsteenOef\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:43:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\StartForm.cs",
+              "RelativeDocumentMoniker": "DobbelsteenOef\\StartForm.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\StartForm.cs",
+              "RelativeToolTip": "DobbelsteenOef\\StartForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:39:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DobbelsteenForm.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\DobbelsteenForm.cs",
+              "RelativeDocumentMoniker": "DobbelsteenOef\\DobbelsteenForm.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\DobbelsteenForm.cs",
+              "RelativeToolTip": "DobbelsteenOef\\DobbelsteenForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:29:15.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\StartForm.cs",
+              "RelativeDocumentMoniker": "DobbelsteenOef\\StartForm.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\StartForm.cs [Design]",
+              "RelativeToolTip": "DobbelsteenOef\\StartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:36:11.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\Presentation.csproj",
+              "RelativeDocumentMoniker": "DobbelsteenOef\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\Presentation.csproj",
+              "RelativeToolTip": "DobbelsteenOef\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-12T11:33:49.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dobbelsteen.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\Business\\Dobbelsteen.cs",
+              "RelativeDocumentMoniker": "Business\\Dobbelsteen.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\Business\\Dobbelsteen.cs",
+              "RelativeToolTip": "Business\\Dobbelsteen.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:21:30.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DobbelsteenForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\DobbelsteenForm.cs",
+              "RelativeDocumentMoniker": "DobbelsteenOef\\DobbelsteenForm.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\DobbelsteenOef\\DobbelsteenOef\\DobbelsteenForm.cs [Design]",
+              "RelativeToolTip": "DobbelsteenOef\\DobbelsteenForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T11:17:53.65Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
