@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}|Business\\DnDBusiness.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#_tests\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\business\\dnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}|Business\\DnDBusiness.csproj|solutionrelative:business\\dnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}|Business\\DnDBusiness.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#_tests\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\business\\dndbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}|Business\\DnDBusiness.csproj|solutionrelative:business\\dndbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#_tests\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\dndpresentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|solutionrelative:testdnd_versluys_quentin\\dndpresentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#_tests\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|solutionrelative:testdnd_versluys_quentin\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testdnd_versluys_quentin\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|solutionrelative:testdnd_versluys_quentin\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#_tests\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|solutionrelative:testdnd_versluys_quentin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testdnd_versluys_quentin\\detailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|solutionrelative:testdnd_versluys_quentin\\detailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#_tests\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\detailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}|testDND_Versluys_Quentin\\DnDPresentation.csproj|solutionrelative:testdnd_versluys_quentin\\detailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}|Business\\DnDBusiness.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#_tests\\testdnd_versluys_quentin\\testdnd_versluys_quentin\\business\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}|Business\\DnDBusiness.csproj|solutionrelative:business\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DnDBusiness.csproj",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\Business\\DnDBusiness.csproj",
+              "RelativeDocumentMoniker": "Business\\DnDBusiness.csproj",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\Business\\DnDBusiness.csproj",
+              "RelativeToolTip": "Business\\DnDBusiness.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T09:37:58.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dnd.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\Business\\Dnd.cs",
+              "RelativeDocumentMoniker": "Business\\Dnd.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\Business\\Dnd.cs",
+              "RelativeToolTip": "Business\\Dnd.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:25:22.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\Program.cs",
+              "RelativeDocumentMoniker": "testDND_Versluys_Quentin\\Program.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\Program.cs",
+              "RelativeToolTip": "testDND_Versluys_Quentin\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:01:06.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DnDPresentation.csproj",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\DnDPresentation.csproj",
+              "RelativeDocumentMoniker": "testDND_Versluys_Quentin\\DnDPresentation.csproj",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\DnDPresentation.csproj",
+              "RelativeToolTip": "testDND_Versluys_Quentin\\DnDPresentation.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T09:00:54.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\StartForm.cs",
+              "RelativeDocumentMoniker": "testDND_Versluys_Quentin\\StartForm.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\StartForm.cs [Design]",
+              "RelativeToolTip": "testDND_Versluys_Quentin\\StartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:56:22.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\StartForm.cs",
+              "RelativeDocumentMoniker": "testDND_Versluys_Quentin\\StartForm.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\StartForm.cs",
+              "RelativeToolTip": "testDND_Versluys_Quentin\\StartForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:48:57.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\DetailForm.cs",
+              "RelativeDocumentMoniker": "testDND_Versluys_Quentin\\DetailForm.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\DetailForm.cs [Design]",
+              "RelativeToolTip": "testDND_Versluys_Quentin\\DetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:48:08.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailForm.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\DetailForm.cs",
+              "RelativeDocumentMoniker": "testDND_Versluys_Quentin\\DetailForm.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\DetailForm.cs",
+              "RelativeToolTip": "testDND_Versluys_Quentin\\DetailForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:49:09.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Karakter.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\Business\\Karakter.cs",
+              "RelativeDocumentMoniker": "Business\\Karakter.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#_Tests\\testDND_Versluys_Quentin\\testDND_Versluys_Quentin\\Business\\Karakter.cs",
+              "RelativeToolTip": "Business\\Karakter.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:32:34.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

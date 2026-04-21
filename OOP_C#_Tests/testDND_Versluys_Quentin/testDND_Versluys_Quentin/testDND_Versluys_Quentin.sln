@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDPresentation", "testDND_Versluys_Quentin\DnDPresentation.csproj", "{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0} = {5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDBusiness", "Business\DnDBusiness.csproj", "{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4BDC25-F0D2-4AAB-970E-25DABFB84AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBCD3FC-3E7A-4C66-992B-E072D5A5BBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE10F4B0-3CA1-41E5-8457-6F987B00CC8B}
+	EndGlobalSection
+EndGlobal

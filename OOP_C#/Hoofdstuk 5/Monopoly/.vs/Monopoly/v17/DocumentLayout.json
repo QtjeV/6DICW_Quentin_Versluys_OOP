@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\monopoly\\monopolystraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\monopolystraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\monopoly\\monopolystraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\monopolystraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\bordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|solutionrelative:monopoly\\straatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD62B39A-13FF-4E01-AC5B-0C97ED61AD5F}|Monopoly\\Monopoly.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\monopoly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,27 +52,27 @@
               "RelativeDocumentMoniker": "Monopoly\\BordForm.cs",
               "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\Monopoly\\BordForm.cs",
               "RelativeToolTip": "Monopoly\\BordForm.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T10:44:47.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MonopolyStraat.cs",
               "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\Monopoly\\MonopolyStraat.cs",
               "RelativeDocumentMoniker": "Monopoly\\MonopolyStraat.cs",
               "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\Monopoly\\MonopolyStraat.cs",
               "RelativeToolTip": "Monopoly\\MonopolyStraat.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T10:40:27.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "StraatForm.cs",
               "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\Monopoly\\StraatForm.cs",
               "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",
@@ -85,19 +85,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BordForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\Monopoly\\BordForm.cs",
               "RelativeDocumentMoniker": "Monopoly\\BordForm.cs",
               "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\Monopoly\\BordForm.cs [Design]",
               "RelativeToolTip": "Monopoly\\BordForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T10:42:30.752Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-19T10:42:30.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StraatForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk 5\\Monopoly\\Monopoly\\StraatForm.cs",
               "RelativeDocumentMoniker": "Monopoly\\StraatForm.cs",

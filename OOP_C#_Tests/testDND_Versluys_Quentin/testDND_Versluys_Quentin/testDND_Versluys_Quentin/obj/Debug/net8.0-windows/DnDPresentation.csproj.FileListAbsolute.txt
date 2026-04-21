@@ -1,0 +1,8 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\testDND_Versluys_Quentin\obj\Debug\net8.0-windows\DnDPresentation.DetailForm.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\testDND_Versluys_Quentin\obj\Debug\net8.0-windows\testDND_Versluys_Quentin.StartForm.resources
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\testDND_Versluys_Quentin\obj\Debug\net8.0-windows\DnDPresentation.csproj.GenerateResource.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\testDND_Versluys_Quentin\obj\Debug\net8.0-windows\DnDPresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\testDND_Versluys_Quentin\obj\Debug\net8.0-windows\DnDPresentation.AssemblyInfoInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\testDND_Versluys_Quentin\obj\Debug\net8.0-windows\DnDPresentation.AssemblyInfo.cs
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\testDND_Versluys_Quentin\obj\Debug\net8.0-windows\DnDPresentation.csproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\testDND_Versluys_Quentin\obj\Debug\net8.0-windows\DnDPresentation.sourcelink.json

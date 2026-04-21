@@ -19,7 +19,7 @@ namespace Monopoly
 
         private void vak23Button_Click(object sender, EventArgs e)
         {
-            StraatForm formulier = new StraatForm(new MonopolyStraat("Veldstraat", "Gent", 22, 120, 360, 850, 1025, 1200), vak23Button.BackColor);
+            StraatForm formulier = new StraatForm(new MonopolyStraat("KortijkseStraat", "Gent", 22, 120, 360, 850, 1025, 1200), vak23Button.BackColor);
             formulier.Show();
         }
 

@@ -1,0 +1,5 @@
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\Business\obj\Debug\net8.0\DnDBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\Business\obj\Debug\net8.0\DnDBusiness.AssemblyInfoInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\Business\obj\Debug\net8.0\DnDBusiness.AssemblyInfo.cs
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\Business\obj\Debug\net8.0\DnDBusiness.csproj.CoreCompileInputs.cache
+C:\Users\quentin.versluys\6DICW_Quentin_Versluys_OOP\OOP_C#_Tests\testDND_Versluys_Quentin\testDND_Versluys_Quentin\Business\obj\Debug\net8.0\DnDBusiness.sourcelink.json

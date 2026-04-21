@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_oefeningen\\CocktailBar\\",
+  "WorkspaceRootPath": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk6\\CocktailBar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|c:\\users\\quentin.versluys\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_oefeningen\\cocktailbar\\cocktailbar\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|c:\\users\\quentin.versluys\\6dicw_quentin_versluys_oop\\oop_c#\\hoofdstuk6\\cocktailbar\\cocktailbar\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|solutionrelative:cocktailbar\\cocktail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|c:\\users\\quentin.versluys\\csharp\\e-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_oefeningen\\cocktailbar\\cocktailbar\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk6\\CocktailBar\\cocktailbar\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDA52424-7999-46D8-921F-5B27FA2B4779}|CocktailBar\\CocktailBar.csproj|solutionrelative:cocktailbar\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Cocktail.cs",
-              "DocumentMoniker": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_oefeningen\\CocktailBar\\CocktailBar\\Cocktail.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk6\\CocktailBar\\CocktailBar\\Cocktail.cs",
               "RelativeDocumentMoniker": "CocktailBar\\Cocktail.cs",
-              "ToolTip": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_oefeningen\\CocktailBar\\CocktailBar\\Cocktail.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk6\\CocktailBar\\CocktailBar\\Cocktail.cs",
               "RelativeToolTip": "CocktailBar\\Cocktail.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAA8wIYAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAJUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T11:33:42.284Z",
               "EditorCaption": ""
@@ -45,14 +45,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Ingredient.cs",
-              "DocumentMoniker": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_oefeningen\\CocktailBar\\CocktailBar\\Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk6\\CocktailBar\\CocktailBar\\Ingredient.cs",
               "RelativeDocumentMoniker": "CocktailBar\\Ingredient.cs",
-              "ToolTip": "C:\\Users\\quentin.versluys\\csharp\\E-book-leerlingen-projecten_2018\\_hoofdstuk_6\\_oefeningen\\CocktailBar\\CocktailBar\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\quentin.versluys\\6DICW_Quentin_Versluys_OOP\\OOP_C#\\Hoofdstuk6\\CocktailBar\\CocktailBar\\Ingredient.cs",
               "RelativeToolTip": "CocktailBar\\Ingredient.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAkwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:31:22.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T11:31:22.831Z"
             }
           ]
         }
